@@ -1,2 +1,5 @@
 # simple-calculator-in-C-
-Simple calculator using C language. 
+This simply works by taking three user inputs grouped into one scanf() function.
+These are seperated into valueOne, valueTwo and the operator (choice of *,/,+,-,^,Sin,Cos,Tan).
+A switch statement is then used in order to run the right calculation for the given operator.
+Mess around with the code and change bits here and there.
