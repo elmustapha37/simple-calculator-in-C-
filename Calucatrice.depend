@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590969379 source:c:\users\laptop hp\desktop\iptv\calucatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
